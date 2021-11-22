@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+CEAI_005.egg-info/PKG-INFO
+CEAI_005.egg-info/SOURCES.txt
+CEAI_005.egg-info/dependency_links.txt
+CEAI_005.egg-info/requires.txt
+CEAI_005.egg-info/top_level.txt
+CEAI_005.egg-info/zip-safe
+lib/__init__.py
+lib/lib.py
+test/__init__.py
+test/test.py
