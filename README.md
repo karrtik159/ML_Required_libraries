@@ -44,7 +44,7 @@ Simple just use pip with this folder name
 
 #### Installation
 
-* CEAI_005 is currently available on the github's repository and you can install it via pip if u have the folder in your working directory:
+* CEAI_005 is currently not available on the github's repository and you can install it via pip if u have the folder in your working directory:
 
 ```bash
 pip install -U CEAI_005
