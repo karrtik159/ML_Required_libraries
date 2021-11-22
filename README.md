@@ -53,13 +53,13 @@ pip install -U CEAI_005
 * If you prefer, you can clone it and run the setup.py file. Use the following commands to get a copy from GitHub and install all dependencies:
 
 ```bash
-git clone 
-cd Assignment/CEAI_005
+git clone https://github.com/karrtik159/ML_Required_libraries.git
+cd ML_Required_libraries
 pip install .
 ```
 
 * Or install using pip and GitHub:
 
 ```bash
-pip install -U git+
+pip install -U git+https://github.com/karrtik159/ML_Required_libraries.git
 ```
